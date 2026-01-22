@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "id": "pypaint",
+      "name": "PyPaint",
+      "description": "Simple drawing app for PyOS",
+      "manifest": "https://raw.githubusercontent.com/pyosproject/pyos-store/main/pypaint/manifest.json"
+    }
+  ]
+}
