@@ -1,0 +1,12 @@
+{
+  "id": "pypaint",
+  "name": "PyPaint",
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "PyApps/community/pypaint/pypaintapp.py",
+      "url": "https://raw.githubusercontent.com/pyosproject/pyos-store/main/pypaint/pypaintapp.py"
+    }
+  ],
+  "entry": "PyApps.community.pypaint.pypaintapp.PyPaintApp"
+}
